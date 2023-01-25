@@ -1,0 +1,29 @@
+*{
+    margin:0;
+    padding: 0; 
+    box-sizing: border-box;
+}
+.main{
+    background-color: black;
+    width: 80%;
+    height: 700px;
+    position: relative;
+    
+}
+.box-1{
+    position: absolute;
+    top:30px;   
+    left: 30px;
+    background-color: brown;
+    width: 70%;
+    height: 70%;
+    
+}
+.box-2{
+    position:absolute;
+    top: 30px;
+    left: 30px;
+    background-color: aqua;
+    width: 70%;
+    height: 70%;
+}
