@@ -1,0 +1,49 @@
+
+body{
+    background-image: url(/assets/images/chebimg.webp);
+    
+
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+#chevrolet_impala_ss_1967 img{
+    height: 350px;
+    
+    float: left;
+    border-style: solid;
+    margin-top: 50px;
+    
+    
+ 
+    
+}
+
+.Chevrolet-Information{
+    min-width: 100px;
+    max-width: 300px;
+    min-height: 50px;
+    max-height: 200px;
+    overflow: auto;
+    float: left;
+    margin-left: 30px;
+    margin-top: 50px;
+    border-style: solid;
+    font-style: italic;
+    font-weight: 800;
+    background-color: rgb(241, 219, 117);
+    
+}
+
+
+
+h1{
+    margin: 300px 400px;
+
+    background-color: rgb(241, 219, 117);
+    display: inline;
+   
+}
