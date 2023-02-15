@@ -1,0 +1,42 @@
+
+@import url(../css/font.css);
+
+.headding-text 
+{
+  font-family: PoppinsLight;
+  font-size: 60px;
+  color: #4a4a4a;
+  margin-left: 300px;
+  margin-top: 250px;
+}
+
+.headding-text-2 
+{
+ font-family: PoppinsBold;
+ font-size: 70px;
+ color: #4a4a4a;
+ margin-left: 300px;
+ margin-top: -90px;
+ height: 50px;
+ width: 100%;
+ border: 1px solid white;
+}
+
+.code-line 
+{
+  margin-left: 300px;
+  margin-top: 0px;
+}
+
+.code-text
+{
+  font-family: PoppinsExtraLight;
+  color: #4a4a4a;
+  font-size: 20px;
+  margin-left: 300px;
+  margin-top: 20px;
+  padding-top: 20px;
+  padding-right: 100px;
+  padding-bottom: 90px;
+  padding-left: 0px;
+}
